@@ -1,0 +1,17 @@
+2019-02-18.20-41-02 unzip gabriele-magurno_steiner.zip 
+2019-02-18.20-46-54 less steiner
+2019-02-18.20-46-59 less steiner.zip 
+2019-02-18.20-46-59 less steiner.zip 
+2019-02-18.20-49-29 clear
+2019-02-18.20-49-32 rm gabriele-magurno_steiner.zip 
+2019-02-18.20-49-34 rm *.txt
+2019-02-18.20-49-39 rm Steinerlight.ttf 
+2019-02-18.20-49-41 rm steiner.zip 
+2019-02-18.20-49-41 clear
+2019-02-18.20-49-44 unzip OnlineWebFonts_COM_7ec876393f36878a2abe7840d4bebcbb.zip 
+2019-02-18.20-49-50 ls @font-face/
+2019-02-18.20-50-54 cp Steiner\ Light.eot ../assets/fonts/steinerlight.eot
+2019-02-18.20-51-01 cp Steiner\ Light.svg ../assets/fonts/steinerlight.svg
+2019-02-18.20-51-07 cp Steiner\ Light.ttf ../assets/fonts/steinerlight.ttf
+2019-02-18.20-51-13 cp Steiner\ Light.woff ../assets/fonts/steinerlight.woff
+2019-02-18.20-51-17 cp Steiner\ Light.woff2 ../assets/fonts/steinerlight.woff2
